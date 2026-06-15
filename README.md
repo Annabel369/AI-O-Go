@@ -2,6 +2,9 @@
 
 Um sistema avançado de assistente de Inteligência Artificial baseado no modelo Llama 3 (via Ollama) operando totalmente offline. Projetado para atuar como um "Hiper-Motor Híbrido Multi-Núcleos", o sistema é capaz de interagir com o usuário, executar comandos no terminal (Bash), rodar consultas em banco de dados (SQL) e executar scripts (Python) com permissão prévia, além de analisar, auditar e compilar projetos de Minecraft (Forge) e aplicações Web (PHP/JS).
 
+<img width="723" height="437" alt="image" src="https://github.com/user-attachments/assets/6178ff76-ea2a-4ba0-aa14-40f35510d7fc" />
+
+
 ## 🚀 Funcionalidades
 
 - **Interação Natural:** Chat alimentado pelo modelo `llama3` usando a infraestrutura do Ollama.
