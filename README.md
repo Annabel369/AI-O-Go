@@ -48,6 +48,8 @@ Os bancos de dados e tabelas (`ChatbotDB`, `Conversations`, `PluginAnalise`) sã
 ### 3. Configurando o Ollama
 Garanta que o Ollama esteja instalado e tenha o modelo `llama3` disponível:
 ```bash
+export OLLAMA_MODELS="/media/astral/7DFD-F7FB/AI-O"
+
 ollama run llama3
 ```
 *O script de inicialização assume que os modelos estão armazenados no caminho definido na variável `OLLAMA_MODELS` (padrão: `/media/astral/7DFD-F7FB/AI-O/models`).*
